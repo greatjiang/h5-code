@@ -2,9 +2,9 @@
     "name": "h5-code",
     "displayName": "h5-code",
     "description": "h5 page common code snippets",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "greatjiang",
-    "repository":"https://github.com/greatjiang/h5-code",
+    "repository": "https://github.com/greatjiang/h5-code",
     "engines": {
         "vscode": "^1.29.0"
     },
