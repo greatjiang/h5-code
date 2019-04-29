@@ -1,0 +1,56 @@
+{
+  "video":{
+    "prefix": "vi",
+    "body": [
+      "<video src=\"##\" id=\"$1\"></video>"
+    ]
+  },
+  "audio":{
+    "prefix":"au",
+    "body":[
+      "<audio src=\"##\" id=\"$1\"></audio>"
+    ]
+  },
+  "input-datatime-local":{
+    "prefix":"idl",
+    "body":[
+      "<input type=\"datetime-local\" id=\"$1\" min=\"\" max=\"\">"
+    ]
+  },
+  "input-text":{
+    "prefix":"ipte",
+    "body":[
+      "<input type=\"text\" id=\"$0\">"
+    ]
+  },
+  "input-button":{
+    "prefix":"inbu",
+    "body":[
+      "<input type=\"button\" id=\"$0\">"
+    ]
+  },
+  "input-checkbox":{
+    "prefix":"inch",
+    "body":[
+      "<input type=\"checkbox\" id=\"$0\">"
+    ]
+  },
+  "input-file":{
+    "prefix":"infi",
+    "body":[
+      "<input type=\"file\" id=\"$0\">"
+    ]
+  },
+  "input-password":{
+    "prefix":"inpa",
+    "body":[
+      "<input type=\"password\" id=\"$0\">"
+    ]
+  },
+  "input-radio":{
+    "prefix":"inra",
+    "body":[
+      "<input type=\"radio\" id=\"$0\">"
+    ]
+  }
+}

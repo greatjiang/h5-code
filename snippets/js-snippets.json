@@ -8,10 +8,20 @@
     ],
     "description": "For Loop"
   },
+  "Forin":{
+    "prefix":"forin",
+    "body": [
+      "for (const item in obj) {",
+        "if(obj.hasOwnProperty(item){",
+          "\t$0",
+        "}",
+      "}"
+    ]
+  },
   "Forof": {
     "prefix": "forof",
     "body": [
-      "for (let item of obj) {",
+      "for (const item of obj) {",
       "\t$1",
       "}"
     ],
@@ -37,6 +47,21 @@
     "prefix":"isand",
     "body":[
       "const isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1"
+    ]
+  },
+  "axios": {
+    "prefix": "axios",
+    "body": [
+      "axios.post(",
+      "'',",
+      "params",
+      ")",
+      ".then(res => {",
+        "\t $0",
+      "})",
+      ".catch(e => {",
+        "\t",
+      "})"
     ]
   }
 }

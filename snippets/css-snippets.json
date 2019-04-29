@@ -1,0 +1,74 @@
+{
+  "width":{
+    "prefix": "w",
+    "body":[
+      "width: "
+    ]
+  },
+  "height":{
+    "prefix": "h",
+    "body":[
+      "height: "
+    ]
+  },
+  "position-relative":{
+    "prefix": "pore",
+    "body":[
+      "position: relative;"
+    ]
+  },
+  "position-absolute":{
+    "prefix": "poab",
+    "body":[
+      "position: absolute;"
+    ]
+  },
+  "position-fixed":{
+    "prefix": "pofi",
+    "body":[
+      "position: fixed;"
+    ]
+  },
+  "margin-0-auto":{
+    "prefix": "ma0a",
+    "body":[
+      "margin: 0 auto;"
+    ]
+  },
+  "margin-top":{
+    "prefix": "mato",
+    "body":[
+      "margin-top: ;"
+    ]
+  },
+  "margin-left":{
+    "prefix": "male",
+    "body":[
+      "margin-left: ;"
+    ]
+  },
+  "padding-top":{
+    "prefix":"pato",
+    "body":[
+      "padding-top: ;"
+    ]
+  },
+  "padding-bottom":{
+    "prefix":"pabo",
+    "body":[
+      "padding-bottom: ;"
+    ]
+  },
+  "background-color": {
+    "prefix":"baco",
+    "body":[
+      "background-color: ;"
+    ]
+  },
+  "border-radius":{
+    "prefix":"bora",
+    "body":[
+      "border-radius: ;"
+    ]
+  }
+}
