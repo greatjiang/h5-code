@@ -2,8 +2,8 @@
     "name": "h5-code",
     "displayName": "h5-code",
     "description": "h5 page common code snippets",
-    "version": "0.0.4",
-    "icon":"./images/icon.png",
+    "version": "0.0.5",
+    "icon": "./images/icon.png",
     "publisher": "greatjiang",
     "repository": "https://github.com/greatjiang/h5-code",
     "engines": {
